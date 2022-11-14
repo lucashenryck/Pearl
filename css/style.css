@@ -1,0 +1,44 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url("../images/wallpapersden.com_mia-goth-pearl-movie_1920x1080.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+
+.container {
+  background-color: rgba(7, 0, 0, 0.9450980392);
+  max-width: 450px;
+  height: auto;
+}
+
+.top-logo {
+  width: 300px;
+}
+
+.paragraph {
+  margin: 8px 0px;
+}
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+}
+
+@media (max-width: 310px) {
+  .footer {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
